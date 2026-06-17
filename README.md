@@ -112,7 +112,6 @@ AERA is a modern workforce management platform designed to streamline business o
 
 ## 📊 AERA at a Glance
 
-* 🚀 350+ commits since May 2026
 * 🏗 20+ Prisma models
 * 🔐 Microsoft Entra ID SSO
 * ☁️ Azure Blob Storage Integration
