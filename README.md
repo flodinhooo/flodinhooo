@@ -100,7 +100,7 @@ Local-first systems · AI & voice interfaces · Software architecture · Securit
 
 ## 📫 Contact
 
-- 📧 [florian.rogenmoser@codin.ch](mailto:florian.rogenmoser@codin.ch)
+- 📧 [hello@kyrion.ch](mailto:hello@kyrion.ch)
 - 🌍 [GitHub](https://github.com/flodinhooo)
 - 💼 Open to Software Engineering opportunities
 
